@@ -1,0 +1,10 @@
+Nike Air Force One, 99.99, 45, US42, White, 3.2
+Jordan Air, 103.99, 23, US42, Black, 3.2
+Polo Ralph Shirt, 108.99, 34, USM, Blue, 2.3
+Raw Star Jeans, 99.99, 45, US32x32, Dark grey, 2.1
+Lacoste Shirt, 99.99, 24, USM, White, 1.2
+Nike Air Force One, 99.99, 45, US44, Black, 3.2
+Jordan Retro, 103.99, 23, US44, Yellow, 4.2
+DKNY Polo Shirt, 102.99, 21, USL, Grey, 2.3
+Levis Jeans, 95.99, 42, US34x34, Dark blue, 2.1
+Calvin Klein Shirt, 96.99, 14, USL, White, 1.2
